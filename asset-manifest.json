@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piesockettest/static/css/main.204be736.css",
+    "main.js": "/piesockettest/static/js/main.6026bed4.js",
+    "static/js/787.3048225d.chunk.js": "/piesockettest/static/js/787.3048225d.chunk.js",
+    "index.html": "/piesockettest/index.html",
+    "main.204be736.css.map": "/piesockettest/static/css/main.204be736.css.map",
+    "main.6026bed4.js.map": "/piesockettest/static/js/main.6026bed4.js.map",
+    "787.3048225d.chunk.js.map": "/piesockettest/static/js/787.3048225d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204be736.css",
+    "static/js/main.6026bed4.js"
+  ]
+}
